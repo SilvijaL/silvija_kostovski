@@ -1,0 +1,11 @@
+Model Information:
+* title:	Diseño 3D - Web Development Resource
+* source:	https://sketchfab.com/3d-models/diseno-3d-web-development-resource-70f8d9e0f9924450888232a7a6afa02d
+* author:	Diego G. (https://sketchfab.com/empty_mirror)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Diseño 3D - Web Development Resource" (https://sketchfab.com/3d-models/diseno-3d-web-development-resource-70f8d9e0f9924450888232a7a6afa02d) by Diego G. (https://sketchfab.com/empty_mirror) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
